@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// учебная программа 
 int main(int argc, const char * argv[]) {
     // insert code here...
     int a, b;
