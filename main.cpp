@@ -22,4 +22,5 @@ int main(int argc, const char * argv[]) {
     cin >>b;
     
     cout << "summa = " << a + b << endl;
+    cout << "raznica = " << a - b << endl;
 }
