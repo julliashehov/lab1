@@ -22,6 +22,9 @@ int main(int argc, const char * argv[]) {
     cout << "Vvedite b = ";
     cin >>b;
     
-    cout << "summa = " << a + b << endl;
-    cout << "raznica = " << a - b << endl;
+    cout << "summa = " << a + b << endl
+    cout << "raznica = " << a - b << endl
+    cout << "proizvedenie = " << a * b << endl
+         << "delenie = " << a / b << endl;
+
 }
